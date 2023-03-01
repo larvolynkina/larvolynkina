@@ -23,10 +23,10 @@
 <div/>
 
 #### My last projects:
-- [Online store](https://larvolynkina-online-store-team.netlify.app/)  
-HTML, SCSS, SPA, React, TypeScript
 - [Trello clone](https://larvolynkina-trello-rs-clone-2022q3.netlify.app/)  
 HTML, SCSS, MERN, Redux Toolkit, RTK Query, TypeScript
+- [Online store](https://larvolynkina-online-store-team.netlify.app/)  
+HTML, SCSS, SPA, React, TypeScript
 - [Songbird Quiz](https://larvolynkina.github.io/songbird/songbird/)  
 HTML, SCSS, Javascript
 
