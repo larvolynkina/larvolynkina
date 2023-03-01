@@ -34,8 +34,6 @@ HTML, SCSS, Javascript
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=larvolynkina&count_private=true&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larvolynkina&langs_count=5)]()
-
 #### Codewars: 
 
 ![](https://www.codewars.com/users/larvolynkina/badges/large)
