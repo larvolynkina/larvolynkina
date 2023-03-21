@@ -24,10 +24,10 @@
 
 #### My last projects:
 - [Trello clone](https://larvolynkina-trello-rs-clone-2022q3.netlify.app/)  
-MERN(Mongo, Express, React, Node), Redux Toolkit, RTK Query, TypeScript, SCSS
+MERN(Mongo, Express, React, Node), Redux Toolkit, RTK Query, TypeScript, SCSS, eslint, prettier
 - [Online store](https://larvolynkina-online-store-team.netlify.app/)  
 React, TypeScript, SPA, SCSS, eslint, prettier 
-- [Custom Drag-and-Drop Calculator]([https://larvolynkina-online-store-team.netlify.app/](https://github.com/larvolynkina/calculator-constructor))  
+- [Custom Drag-and-Drop Calculator]([https://larvolynkina-online-store-team.netlify.app/](https://github.com/larvolynkina/calculator-constructor)  
 React, TypeScript, Redux Toolkit, SCSS, FSD architecture, eslint, prettier
 - [Songbird Quiz](https://larvolynkina.github.io/songbird/songbird/)  
 HTML, SCSS, Javascript
